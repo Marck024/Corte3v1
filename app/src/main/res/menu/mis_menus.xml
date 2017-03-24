@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mPerfil"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="Perfil" />
+    <item
+        android:id="@+id/mconfig"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="Configuracion" />
+    <item
+        android:id="@+id/mcerrar"
+        android:icon="@android:drawable/ic_menu_set_as"
+        android:title="Cerrar" />
+</menu>
